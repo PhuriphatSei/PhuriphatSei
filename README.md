@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PhuriphatSei
-- 👀 I’m interested in Data Engineer
+- 👀 I’m interested in Data Engineer/Investment Analyst/Data Analyst
 - 🌱 I’m currently learning Python
 
 
