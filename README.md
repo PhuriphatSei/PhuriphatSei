@@ -1,9 +1,13 @@
-- 👋 Hi, I’m @PhuriphatSei
-- 👀 I’m interested in Data Engineer/Investment Analyst/Data Analyst
-- 🌱 I’m currently learning Python
+👋 Hi, I’m @PhuriphatSei
 
+👀 I’m interested in Junior Investment Analyst / Research Assistant / Data Engineer / Data Analyst
 
-<!---
-PhuriphatSei/PhuriphatSei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌱 Background
+   - 🎓 Applied Data Science graduate (GPA 2.82)
+   - 📈 Passionate about equity research, valuation models, and financial data
+   - 💼 Aspiring Junior Analyst / Research Assistant / Data Engineer /Data Analyst
+     
+📫 How to reach me 
+   - https://www.linkedin.com/in/edenseiasuno/
+   - https://www.instagram.com/seibastien.beast/
+   - Phuriphat.sei@gmail.com
